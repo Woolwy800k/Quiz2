@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następny</string>
+    <string name="q_one">2+2*2=8</string>
+    <string name="q_two">6*6-6=30</string>
+    <string name="q_three">7*7=59</string>
+    <string name="q_four">2^10 jest mniejsze niż 1000</string>
+    <string name="q_five">Masz już naszą aplikacje</string>
+    <string name="correct_answer">Dobra Odpowiedź.</string>
+    <string name="incorrect_answer">Błędna Odpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
+</resources>
